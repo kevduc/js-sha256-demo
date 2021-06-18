@@ -1,3 +1,3 @@
 # sha256
  
-Demonstrate how SHA-256 works, using Javasript
+🔒 Demonstrate how SHA-256 works, using JavaSript
